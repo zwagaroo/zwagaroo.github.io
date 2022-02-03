@@ -62,8 +62,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/zwagaroo/"
-    - label: "Email (zhwang2003@gmail.com)"
-      icon: "/assets/images/email.png"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:zhwang2003@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -72,7 +72,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "/assets/images/email.png"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:zhwang2003@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
