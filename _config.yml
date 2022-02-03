@@ -59,18 +59,21 @@ author:
   avatar : "/assets/images/Profile Picture.png"
   bio    : "A college student that loves to make music and games!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://zwagaroo.github.io"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/zwagaroo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/zwagaroo/"
+    - label: "Email (zhwang2003@gmail.com)"
+      icon: "/assets/images/email.png"
+      url: "mailto:zhwang2003@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zwagaroo"
 
 footer:
   links:
+    - label: "Email"
+      icon: "/assets/images/email.png"
+      url: "mailto:zhwang2003@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zwagaroo"
