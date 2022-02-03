@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "ZW's Blog"
+title: "ZWs Blog"
 email: "zhwang2003@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  "ZW's blog"
-#twitter_username: username
+  "ZW blog"
+twitter_username: username
 github_username: zwagaroo
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -72,10 +72,10 @@ author:
 
 footer:
   links:
-  #  - label: "Twitter"
-  #    icon: "fab fa-fw fa-twitter-square"
-  #   url: "https://twitter.com/"
-  # - label: "GitHub"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zwagaroo"
     - label: "Instagram"
