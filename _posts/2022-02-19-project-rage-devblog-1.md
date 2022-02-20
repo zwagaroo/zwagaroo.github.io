@@ -9,12 +9,12 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-My 1st Blog post for the developent of Project: Rage for WolverineSoft Studios.
-<!--more-->
+
 
 ## Introduction
-
+<!--more-->
 Welcome to my first blog post for this semester's WolverineSoft project: Rage. The current idea for rage is a beat'em up set in a cyberpunk setting. This semester I am working on the audio team to design sounds and music for the game. Currently we are still in the process of learning the tools to implement audio into the game such as Wwise and generating music and sfx ideas through sonic palettes and music snippets.
+<!--more-->
 
 ## Generating Ideas (17 hours)
 
