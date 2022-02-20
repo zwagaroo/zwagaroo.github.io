@@ -30,3 +30,5 @@ In my second snippet (5 hours), I tried to experiemnt more with the equilizer. I
 
 Since I have learned a lot of techniques in creating the different sounds that are commonly used in cyberpunk themed music I am confident that next time the process will become much faster!
 
+## Wwise Tutorials (6 hours)
+
