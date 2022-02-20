@@ -18,7 +18,7 @@ Welcome to my first blog post for this semester's WolverineSoft project: Rage. T
 
 Created a sonic palette to try to capture the sound of cyberpunk. Brought together many of pieces in media that I thought was a good representation of cyberpunk such as music from Tron: Legacy and Before the Night by Home. I also provided my reasons for why I thought they were good for context for the rest of the audio team. This took around 4 hours total, all of the time just spending listening to a bunch of music and selecting some to put down and write about. [Here is the link to my full sonic palette.](https://studio.eecs.umich.edu/confluence/display/W2WSP/Sonic+Palette+-+ZW)
 
-<img src="../assets/images/Sonic Palette Picture.png" alt="My Sonic Palette">
+<img src="zwagaroo.github.io/assets/images/Sonic Palette Picture.png" alt="My Sonic Palette">
 
 ### Music Snippets (13 hours)
 
