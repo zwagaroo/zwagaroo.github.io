@@ -6,7 +6,11 @@ categories:
 tags:
   - devblog
   - project rage
+excerpt_separator: <!--more-->
 ---
+
+My 1st Blog post for the developent of Project: Rage for WolverineSoft Studios.
+<!--more-->
 
 ## Introduction
 
