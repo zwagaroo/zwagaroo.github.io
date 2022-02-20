@@ -31,3 +31,11 @@ Since I have learned a lot of techniques in creating the different sounds that a
 
 ## Wwise Tutorials (6 hours)
 
+Wwise is a audio implementation software that we will be using for our game. This software is new to me, and so I worked on two different tutorials on Wwise: Wwise 101 and Wwise 102.
+
+### Wwise 101 (3 hours)
+
+I finished the first two sections for Wwise 101 which is the only ones that were currently relevant to audio implementation in our game. By utilizing a sample game called Cube in the tutorial, I was able to implment a sound for an attack inside the sample game. I learned from this tutorial how to connect Wwise with the game via game calls and sound banks. I also learned how to edit and create sound in Wwise and use randomizers to make one sound sample sound different everything the sample is utilized.
+
+### Wwise 102 (3 hours)
+
