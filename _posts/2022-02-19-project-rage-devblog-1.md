@@ -28,17 +28,5 @@ Then I started to make two musical snippets of around one to two minutes to gene
 
 In my second snippet (5 hours), I tried to experiemnt more with the equilizer. I first created two sections like the first one with a repeating melody and the other with a fast arpeggio(2 hours). I used it to create vowel sounds in the synths which added grittiness and glitchiness in the sound (2 hours). I also tried to create a more interesting beat using the drum kits, after browsing through a ton of different samples I was able to piece together an big sounding drum kit and create a cool beat (1 hour). [Link to the second snippet](https://studio.eecs.umich.edu/jira/secure/attachment/12020/Snippet2.wav).
 
+Since I have learned a lot of techniques in creating the different sounds that are commonly used in cyberpunk themed music I am confident that next time the process will become much faster!
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
