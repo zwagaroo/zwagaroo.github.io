@@ -29,7 +29,7 @@ In my second snippet (5 hours), I tried to experiemnt more with the equilizer. I
 
 Since I have learned a lot of techniques in creating the different sounds that are commonly used in cyberpunk themed music I am confident that next time the process will become much faster!
 
-## Wwise Tutorials (6 hours)
+## Wwise Tutorials (5 hours)
 
 Wwise is a audio implementation software that we will be using for our game. This software is new to me, and so I worked on two different tutorials on Wwise: Wwise 101 and Wwise 102.
 
@@ -37,7 +37,7 @@ Wwise is a audio implementation software that we will be using for our game. Thi
 
 I finished the first two sections for Wwise 101 which is the only ones that were currently relevant to audio implementation in our game. By utilizing a sample game called Cube in the tutorial, I was able to implment a sound for an attack inside the sample game. I learned from this tutorial how to connect Wwise with the game via game calls and sound banks. I also learned how to edit and create sound in Wwise and use randomizers to make one sound sample sound different everything the sample is utilized.
 
-### Wwise 201 (3 hours)
+### Wwise 201 (2 hours)
 
 I finished the first two sections for Wwise 201 which taught me even more about audio implmentation, specifically how to manipulate music to play in random sequence and seamlessly blend and transition into each other. I also learned about reorchestration in Wwise and how to layer different sounds together to make one piece of music sound with different instrumentation everytime. 
 
