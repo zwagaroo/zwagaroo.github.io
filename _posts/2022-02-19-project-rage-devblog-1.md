@@ -9,7 +9,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-Welcome to my first blog post for this semester's WolverineSoft project: Rage. The current idea for rage is a beat'em up set in a cyberpunk setting. This semester I am working on the audio team to design sounds and music for the game. Currently we are still in the process of learning the tools to implement audio into the game such as Wwise and generating music and sfx ideas through sonic palettes and music snippets.
+Welcome to my first blog post for this semester's WolverineSoft project: Project rage. The current idea for rage is a beat'em up set in a cyberpunk setting. This semester I am working on the audio team to design sounds and music for the game. Currently we are still in the process of learning the tools to implement audio into the game such as Wwise and generating music and sfx ideas through sonic palettes and music snippets.
 
 ## Generating Ideas (17 hours)
 
@@ -37,5 +37,12 @@ Wwise is a audio implementation software that we will be using for our game. Thi
 
 I finished the first two sections for Wwise 101 which is the only ones that were currently relevant to audio implementation in our game. By utilizing a sample game called Cube in the tutorial, I was able to implment a sound for an attack inside the sample game. I learned from this tutorial how to connect Wwise with the game via game calls and sound banks. I also learned how to edit and create sound in Wwise and use randomizers to make one sound sample sound different everything the sample is utilized.
 
-### Wwise 102 (3 hours)
+### Wwise 201 (3 hours)
 
+I finished the first two sections for Wwise 201 which taught me even more about audio implmentation, specifically how to manipulate music to play in random sequence and seamlessly blend and transition into each other. I also learned about reorchestration in Wwise and how to layer different sounds together to make one piece of music sound with different instrumentation everytime. 
+
+<img src="https://zwagaroo.github.io/assets/images/ragedevblog1/Wwise.png" alt="My work in Wwise 201">
+
+## Meeting with the rest of the Studio and Audio team (4 hours)
+
+I met with the studio every Sunday from 11-1 pm to discuss developments in the project as well as convene with the audio team to discuss current and future issues. For the next two weeks, we have decided to work on new music and sfx for the first level!
