@@ -18,6 +18,12 @@ tags:
   width: 33.33%;
   padding: 5px;
 }
+.column2 {
+  float: left;
+  width: 66.67%;
+  padding: 5px;
+}
+
 
 /* Clearfix (clear floats) */
 .row::after {
@@ -57,7 +63,7 @@ I also worked on cutting up and processing voices a lot to make them sound harmo
   <div class="column">
     <img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/main_buildup_drums.png" alt = "drums" style="width:100%">
   </div>
-  <div class="column">
+  <div class="column2">
     <img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/vocals.png" alt = "vocals" style="width:100%">
   </div>
 </div>
