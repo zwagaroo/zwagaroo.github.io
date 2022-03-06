@@ -8,6 +8,25 @@ tags:
   - project rage
 ---
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
 Here is the breakdown of my work on Project Rage from 2/20/2022 to 3/6/2022. This week my main assignment was the level 1 downtown music.
 
 ## Level 1 Downtown Music (25 hours)
