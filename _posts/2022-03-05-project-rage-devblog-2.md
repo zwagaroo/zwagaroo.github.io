@@ -1,6 +1,6 @@
 ---
 title: "Project Rage DevBlog #2"
-date: 2022-03-06T17:57:30-04:00
+date: 2022-03-05T17:57:30-04:00
 categories:
   - project rage
 tags:
