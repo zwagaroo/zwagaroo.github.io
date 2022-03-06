@@ -1,12 +1,3 @@
----
-title: "Project Rage Devblog #2"
-date: 2022-03-5T17:57:30-04:00
-categories:
-  - project rage
-tags:
-  - devblog
-  - project rage
----
 
 <style>
 * {
@@ -27,6 +18,17 @@ tags:
   width: 66.67%;
   padding: 5px;
 }
+  
+---
+title: "Project Rage Devblog #2"
+date: 2022-03-5T17:57:30-04:00
+categories:
+  - project rage
+tags:
+  - devblog
+  - project rage
+---
+
 
 
 /* Clearfix (clear floats) */
