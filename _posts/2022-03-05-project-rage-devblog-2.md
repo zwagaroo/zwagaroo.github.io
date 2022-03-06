@@ -26,5 +26,6 @@ From this I started to think about many of the sounds that may appear in such a 
 
 I started out by making a draft which I intially thought was pretty good (5 hours). During the creation of the melody I thought that the music was supposed to be somewhat more more relaxed as the it wasn't supposed to be a boss fight or anything. So I built a melody and added a bunch of audio effects like equilizer, pitch bends, autopan and compression. Then I added the harmonies and bases. Which I thought was really great, until I looked at the audio guidelines again. I realized that we wanted rage filled music the whole way through and the focus should be on the rythmn instead.
 
-I started over. I started by working on the ambience and drums and the intro to setup the song. This time I considered more about the differences
+<img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/firsttry.png" alt = "first try">
 
+I started over. I started by working on the ambience and drums and the intro to setup the song. This time I considered more about the differences 
