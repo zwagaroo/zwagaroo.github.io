@@ -20,7 +20,9 @@ In order to get the correct vibes for a cyberpunk world. I listened to a lot of 
 
 <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec7d26b1-d557-47c1-a877-6050004d2fc2/dbb7hcs-1f9e8f0a-c4c7-4fc9-baf6-9e075ce86e30.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjN2QyNmIxLWQ1NTctNDdjMS1hODc3LTYwNTAwMDRkMmZjMlwvZGJiN2hjcy0xZjllOGYwYS1jNGM3LTRmYzktYmFmNi05ZTA3NWNlODZlMzAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-7-iEaeDDddcIw8RSKsKr7t8JpLF4DYv6ZQzuOVtQ28" alt = "cyberpunk city">
 
-From this I started to think about many of the sounds that may appear in such a cyberpunk city full of neon lights and chaos. I thought about the feelings that are invoked in this sort of environment. I was able to create and find sounds that are robotic and heavily modulated and processed to make it sound very futuristic (2 hours). 
+From this I started to think about many of the sounds that may appear in such a cyberpunk city full of neon lights and chaos. I thought about the feelings that are invoked in this sort of environment. I was able to create and find sounds that are robotic and heavily modulated and processed to make it sound very futuristic such as bouncing sweeps and vocal vocal chops ab (2 hours). 
+
+<img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/bouncingsweep.png" alt = "bouncing sweep">
 
 ### Creating the Song (20 hours)
 
@@ -28,4 +30,4 @@ I started out by making a draft which I intially thought was pretty good (5 hour
 
 <img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/firsttry.png" alt = "first try">
 
-I started over. I started by working on the ambience and drums and the intro to setup the song. This time I considered more about the differences 
+I started over. I started by working on the ambience and drums and the intro to setup the song (5 hours). This time I considered more about the vibe of a beat em' up and the possible sounds that might be
