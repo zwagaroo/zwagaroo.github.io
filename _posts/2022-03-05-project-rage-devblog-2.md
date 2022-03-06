@@ -44,5 +44,14 @@ I also worked on cutting up and processing voices a lot to make them sound harmo
 </div>
 
 
-After that I worked on the breakdown section (7 hours) adding even more sound effects and the old melody from before to spice up the sound. This helped to make an very exciting and busy sounding atmosphere in the music. I also redid the drum beats to a more drum and bass style beat. However the biggest problem I had was finding and creating the right sounds for the basses 
+After that I worked on the breakdown section adding even more sound effects and the old melody from before to spice up the sound(3 hours). This helped to make an very exciting and busy sounding atmosphere in the music. I also redid the drum beats to a more drum and bass style beat(1 hour). However the biggest problem I had was finding and creating the right sounds for the bass (3 hours). I wanted the bass to be the focus in the breakdown as the music is supposed to be rythmic but I had trouble creating the correct "melody" for the bass. In the end I was able to create something that repeated, so not super exciting, but fell really well with the beats and I was able to layer a lot on top of that to make it sound exciting. The images below shows the final product. I broke it up into multiple images because there really was a ton of tracks!
+
+
+<img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/arpsfloaters.png" alt = "arps and floaters">
+<img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/ambience.png" alt = "vocals">
+<img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/drums.png" alt = "vocals">
+<img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/bassandsubs.png" alt = "vocals">
+<img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/whooshes.png" alt = "vocals">
+
+Overall, I learned a ton from this experience as this is my first time experimenting with so many tracks and so many sounds!
 
