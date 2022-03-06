@@ -1,4 +1,17 @@
 
+  
+---
+title: "Project Rage Devblog #2"
+date: 2022-03-5T17:57:30-04:00
+categories:
+  - project rage
+tags:
+  - devblog
+  - project rage
+  - excerpt_separator: <!--more-->
+---
+
+
 <style>
 * {
   box-sizing: border-box;
@@ -25,22 +38,10 @@
   display: table;
 }
 </style>
-  
----
-title: "Project Rage Devblog #2"
-date: 2022-03-5T17:57:30-04:00
-categories:
-  - project rage
-tags:
-  - devblog
-  - project rage
----
-
-
-
 
 
 Here is the breakdown of my work on Project Rage from 2/20/2022 to 3/6/2022. This week my main assignment was the level 1 downtown music.
+<!--more-->
 
 ## Level 1 Downtown Music (25 hours)
 
