@@ -26,8 +26,11 @@ From this I started to think about many of the sounds that may appear in such a 
 
 ### Creating the Song (20 hours)
 
-I started out by making a draft which I intially thought was pretty good (5 hours). During the creation of the melody I thought that the music was supposed to be somewhat more more relaxed as the it wasn't supposed to be a boss fight or anything. So I built a melody and added a bunch of audio effects like equilizer, pitch bends, autopan and compression. Then I added the harmonies and bases. Which I thought was really great, until I looked at the audio guidelines again. I realized that we wanted rage filled music the whole way through and the focus should be on the rythmn instead.
+I started out by making an intial draft. I started off with a more relaxed and warped sound as the melody to reflect the cyberpunk environment (3 hours). I added a bunch of audio effects like equilizer, pitch bends, autopan and compression. Then I added the harmonies and bases (2 hours).
 
 <img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/firsttry.png" alt = "first try">
 
-I started over. I started by working on the ambience and drums and the intro to setup the song (5 hours). This time I considered more about the vibe of a beat em' up and the possible sounds that might be
+However, the next day, I looked at the audio guidelines again and realized that it wasn't "rage" enough. So I started over, this time focusing more on the rythmn and ambience surround the sound and taking into the account of the vibes of a beat em' up. I was able to finish the intro section in 2 hour and then I got to work on the build up section which took around 13 hours in total over a series of a few days. In the build up section, I worked on adding more tracks and sound effects to make the sound more full and worked on the fine details of automating the audio effects over each and every track. I got stuck on the drums of the build up section, as I thought that the drums weren't "strong" enough. In the end I mixed together many different versions of the kicks and drums.
+
+
+<img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/main_buildup_drums.png" alt = "drums">
