@@ -32,11 +32,17 @@ I started out by making an intial draft. I started off with a more relaxed and w
 
 However, the next day, I looked at the audio guidelines again and realized that it wasn't "rage" enough. So I started over, this time focusing more on the rythmn and ambience surround the sound and taking into the account of the vibes of a beat em' up. I was able to finish the intro section in 2 hour and then I got to work on the build up section which took around 13 hours in total over a series of a few days. In the build up section, I worked on adding more tracks and sound effects  to make the sound more full and worked on the fine details of automating the audio effects over each and every track (6 hours). I got stuck on the drums of the build up section (5 hours), as I thought that the drums weren't "strong" enough. In the end I mixed together many different versions of the kicks and resampled, froze, and flattened many different snares and high hat sounds.
 
-<img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/main_buildup_drums.png" alt = "drums">
-
 I also worked on cutting up and processing voices a lot to make them sound harmonic with the rest of the piece (2 hours).
 
-<img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/vocals.png" alt = "vocals">
+<div class="row">
+  <div class="column">
+    <img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/main_buildup_drums.png" alt = "drums">
+  </div>
+  <div class="column">
+    <img src = "https://raw.githubusercontent.com/zwagaroo/zwagaroo.github.io/master/assets/images/ragedevblog2/vocals.png" alt = "vocals">
+  </div>
+</div>
+
 
 After that I worked on the breakdown section (7 hours) adding even more sound effects and the old melody from before to spice up the sound. This helped to make an very exciting and busy sounding atmosphere in the music. I also redid the drum beats to a more drum and bass style beat. However the biggest problem I had was finding and creating the right sounds for the basses 
 
