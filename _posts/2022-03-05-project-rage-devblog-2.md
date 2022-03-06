@@ -13,6 +13,10 @@ tags:
   box-sizing: border-box;
 }
 
+.row {
+  display: flex;
+}
+
 .column {
   float: left;
   width: 33.33%;
