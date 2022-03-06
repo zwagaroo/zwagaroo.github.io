@@ -1,5 +1,3 @@
-
-  
 ---
 title: "Project Rage Devblog #2"
 date: 2022-03-5T17:57:30-04:00
