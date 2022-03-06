@@ -18,6 +18,13 @@
   width: 66.67%;
   padding: 5px;
 }
+  /* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
   
 ---
 title: "Project Rage Devblog #2"
@@ -31,13 +38,7 @@ tags:
 
 
 
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
+
 
 Here is the breakdown of my work on Project Rage from 2/20/2022 to 3/6/2022. This week my main assignment was the level 1 downtown music.
 
