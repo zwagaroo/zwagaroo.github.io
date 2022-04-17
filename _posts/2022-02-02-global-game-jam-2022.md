@@ -1,23 +1,11 @@
 ---
-title: "GGJ 2022"
-last_modified_at: 2022-02-02T10:20:02-05:00
+title: "Project Rage DevBlog #5"
+last_modified_at: 2022-04-17T10:20:02-05:00
 categories:
-  - Blog
+  - project rage
 tags:
-  - Global Game Jam
   - Game Dev
   - Music
----
-
----
-title: "Project Rage DevBlog #5"
-date: 2022-04-17T17:57:30-04:00
-categories:
-  - project rage
-tags:
-  - devblog
-  - project rage
-excerpt_separator: <!--more-->
 ---
 
 Here is the breakdown of my work on Project Rage from 4/03/2022 to 4/17/2022.
